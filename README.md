@@ -1,6 +1,6 @@
 ### Hi there :frog:
 
-- 👩‍🎓 I’m currently studying in the frontend Adalab course
+- 👩‍🎓 I’m currently studying front-end development in Adalab
 - 💻 I’m currently learning React.js
 <!--
 **yanirafr/yanirafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
