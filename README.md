@@ -2,7 +2,6 @@
 
 - 👩‍🎓 I’m currently studying in the frontend Adalab course
 - 💻 I’m currently learning React.js
-- 📫 How to reach me: yanirafr@gmail.com
 <!--
 **yanirafr/yanirafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
