@@ -1,8 +1,9 @@
 ### Hi there :frog:
 
-- 👩‍🎓 I’m currently studying front-end development in Adalab
+- 👩‍🎓 I just finished studying front-end developement in Adalab
 - 💻 I’m currently learning React.js
-- 🔭 I’m currently working on my personal proyect, which you can find at https://github.com/yanirafr/IBMWP
+- 🐛 I’m currently working on my personal proyect, which you can find at https://github.com/yanirafr/IBMWP
+- 📫 How to reach me: yanirafr@gmail.com
 <!--
 **yanirafr/yanirafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
