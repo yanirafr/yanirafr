@@ -1,5 +1,7 @@
 ### Hi there :frog:
 
+I am Yanira, former biology student and now junior front-end developer.
+
 - 👩‍🎓 I just finished studying front-end developement in Adalab
 - 💻 I’m currently learning React.js
 - 🐛 I’m currently working on my personal proyect, which you can find at https://github.com/yanirafr/IBMWP
